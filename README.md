@@ -37,3 +37,9 @@ Bay Wheels is the first regional and large-scale bicycle sharing system deployed
 
 - I don't know why, but many subscribers seem to stop in december and fewer in November meanwhile Customers numbers increases in December.
 <img src="Imgs/010.png" alt="drawing" width="1000"/>
+
+- Duration almost constant throughout the week for both user types with slight increase in weekends also for both types.
+<img src="Imgs/011.png" alt="drawing" width="1000"/>
+
+Thats it,
+Thank You
